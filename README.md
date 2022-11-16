@@ -1,5 +1,11 @@
 # Audio-Augmentation
 
 
-Frequency Masking And Time Masking
+Frequency Masking & Time Masking
+Frequency and Time Mask
+  
 
+Time Mask
+Frequency Mask 
+     
+   asfhgfavnKVHNSEAFKJBGGLH
